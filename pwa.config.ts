@@ -18,16 +18,16 @@ export default {
   preferRelatedApplications: false,
   shortcuts: [
     {
-      name: 'Shortcut 1',
-      shortName: 'Shortcut 1',
-      description: 'Shortcut 1 description goes here...',
-      url: '/search/label/shortcut-1?utm_source=homescreen',
+      name: 'Genre Komik',
+      shortName: 'Genre Komik',
+      description: 'Baca semua genre komik..',
+      url: 'https://www.matkomik.com/p/aksi.html?utm_source=homescreen',
     },
     {
-      name: 'Shortcut 2',
-      shortName: 'Shortcut 2',
-      description: 'Shortcut 2 description goes here...',
-      url: '/search/label/shortcut-2?utm_source=homescreen',
+      name: 'Hantar Komik',
+      shortName: 'Hantar Komik',
+      description: 'Hantar komik anda disini..',
+      url: 'https://www.matkomik.com/p/hantar-komik.html?utm_source=homescreen',
     },
   ],
   pwa: {
