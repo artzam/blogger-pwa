@@ -1,8 +1,8 @@
 {
-  "name": "My Blog",
+  "name": "Matkomik",
   "id": "/",
-  "short_name": "My Blog",
-  "description": "My blog description goes here...",
+  "short_name": "Matkomik",
+  "description": "Komuniti Komik Online Malaysia",
   "version": "1.0",
   "dir": "auto",
   "lang": "en-US",
