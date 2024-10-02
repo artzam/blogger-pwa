@@ -128,10 +128,10 @@
   ],
   "shortcuts": [
     {
-      "name": "Shortcut 1",
-      "short_name": "Shortcut 1",
-      "description": "Shortcut 1 description goes here...",
-      "url": "https://hello-example.blogspot.com/search/label/shortcut-1?utm_source=homescreen",
+      "name": "Genre Komik",
+      "short_name": "Genre Komik",
+      "description": "Baca semua genre komik..",
+      "url": "https://www.matkomik.com/p/aksi.html?utm_source=homescreen",
       "icons": [
         {
           "src": "icons/android-chrome-96x96.png",
@@ -140,10 +140,10 @@
       ]
     },
     {
-      "name": "Shortcut 2",
-      "short_name": "Shortcut 2",
-      "description": "Shortcut 2 description goes here...",
-      "url": "https://hello-example.blogspot.com/search/label/shortcut-2?utm_source=homescreen",
+      "name": "Hantar Komik",
+      "short_name": "Hantar Komik",
+      "description": "Hantar komik anda disini..",
+      "url": "https://www.matkomik.com/p/hantar-komik.html?utm_source=homescreen",
       "icons": [
         {
           "src": "icons/android-chrome-96x96.png",
